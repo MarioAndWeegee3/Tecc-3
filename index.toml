@@ -1095,11 +1095,6 @@ hash = "cfd1189bc00016104ddfb089228194459149225cc776fbaedf152bc992198eac"
 metafile = true
 
 [[files]]
-file = "mods/betterdarkmode.toml"
-hash = "be22f534fd0bd96a4b606ce90305ad7c0a9bbf11dd5ca0cc3391339941627f5c"
-metafile = true
-
-[[files]]
 file = "mods/blockus.toml"
 hash = "949fa146db39f30daab3c8282ae265a9ccfdf6222c79d55d46c8bab34d36f152"
 metafile = true
