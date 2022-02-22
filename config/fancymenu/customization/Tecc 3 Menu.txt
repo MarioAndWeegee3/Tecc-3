@@ -139,6 +139,6 @@ customization {
   y = -13
   scale = 1.0
   alignment = left
-  value = Tecc 3 version 0.5.0
+  value = Tecc 3
 }
 

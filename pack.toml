@@ -1,12 +1,12 @@
 name = "Tecc 3"
 author = "MarioAndWeegee3"
-version = "0.6.0"
+version = "0.6.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9e84da8787be6dc83d4f1b6e1a91cebb3902e686126dea34bd99c2b6262e2761"
+hash = "4d6d53318a1c6aac2466b4f448096489d5f1496df5a57ed2aba0e4bc0e002958"
 
 [versions]
 fabric = "0.13.3"
