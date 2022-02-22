@@ -1,6 +1,6 @@
 name = "Tecc 3"
 author = "MarioAndWeegee3"
-version = "0.6.0-beta.1"
+version = "0.6.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
