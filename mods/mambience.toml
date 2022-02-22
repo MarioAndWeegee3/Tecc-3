@@ -1,0 +1,13 @@
+name = "MAmbience"
+filename = "Mambience-4.0.3+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3639/116/Mambience-4.0.3+1.18.1.jar"
+hash-format = "sha1"
+hash = "e0b4e782b22c2dd2208fbdec24393131a176580e"
+
+[update]
+[update.curseforge]
+file-id = 3639116
+project-id = 317590

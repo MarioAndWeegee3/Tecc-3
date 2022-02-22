@@ -1,0 +1,14 @@
+{
+  "player_rgb": "#FFFFFF",
+  "player_bold": false,
+  "player_italic": false,
+  "rolls_rgb": "#B8B8B8",
+  "rolls_bold": false,
+  "rolls_italic": false,
+  "roll_num_rgb": "#FFAF00",
+  "roll_num_bold": true,
+  "roll_num_italic": false,
+  "range_rgb": "#B8B8B8",
+  "range_bold": false,
+  "range_italic": true
+}

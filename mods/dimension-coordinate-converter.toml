@@ -1,0 +1,13 @@
+name = "Dimension Coordinate Converter"
+filename = "dimension-coord-converter-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/569/dimension-coord-converter-1.1.1.jar"
+hash-format = "sha1"
+hash = "2371a33b76113fb2a8361572f57aef9028e4cdca"
+
+[update]
+[update.curseforge]
+file-id = 3565569
+project-id = 555045

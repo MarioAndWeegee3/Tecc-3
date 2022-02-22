@@ -1,0 +1,13 @@
+name = "ChickensShed"
+filename = "chickensshed-1.18.1-1.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/793/chickensshed-1.18.1-1.3-fabric.jar"
+hash-format = "sha1"
+hash = "b5d0ccf06ee021b51edae2407b4a44e258a64dd2"
+
+[update]
+[update.curseforge]
+file-id = 3561793
+project-id = 282684

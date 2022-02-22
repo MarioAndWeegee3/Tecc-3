@@ -1,0 +1,13 @@
+name = "Villager Leads"
+filename = "villagerfollows-1.18.1 Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3585/285/villagerfollows-1.18.1%20Fabric.jar"
+hash-format = "sha1"
+hash = "f3755208bdefa41b105ca8094598b337ace62bbc"
+
+[update]
+[update.curseforge]
+file-id = 3585285
+project-id = 561609

@@ -1,0 +1,13 @@
+name = "Enhanced Searchability"
+filename = "EnhancedSearchability-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3646/12/EnhancedSearchability-2.0.2.jar"
+hash-format = "sha1"
+hash = "6517f86b19c53891d74f015a18fe1cf480c2b3d2"
+
+[update]
+[update.curseforge]
+file-id = 3646012
+project-id = 538023

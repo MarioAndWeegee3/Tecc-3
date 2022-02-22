@@ -1,0 +1,144 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = tecc_3_menu
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -1
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400310%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -61
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=400358%
+  width = 50
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = mid-centered
+  x = 59
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400286%
+  width = 89
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -51
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400334%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttonlabel
+  value = Realms
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -1
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=400394%
+  width = 50
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = -51
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=502394%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-centered
+  x = -91
+  action = movebutton
+  y = 54
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = c94afc2d-4602-4f3c-93cd-51dbad5a77161641266278673
+  action = addtext
+  y = -13
+  scale = 1.0
+  alignment = left
+  value = Tecc 3 version 0.5.0
+}
+

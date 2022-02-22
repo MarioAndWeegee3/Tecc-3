@@ -1,0 +1,13 @@
+name = "Akashic Tome of Tools Fabric"
+filename = "akashictomeoftools-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/338/akashictomeoftools-1.2.jar"
+hash-format = "sha1"
+hash = "87e6f829bba84dc4983ee5f1a8ff032e6fc27062"
+
+[update]
+[update.curseforge]
+file-id = 3562338
+project-id = 544237

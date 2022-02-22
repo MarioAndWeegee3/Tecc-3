@@ -1,0 +1,13 @@
+name = "BetterBlockOutline"
+filename = "BetterBlockOutline-1.4.2-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3637/945/BetterBlockOutline-1.4.2-1.18.1.jar"
+hash-format = "sha1"
+hash = "3bc9c5920099060aea70290a27b498da1dcd2107"
+
+[update]
+[update.curseforge]
+file-id = 3637945
+project-id = 560381

@@ -1,0 +1,13 @@
+name = "Nether Gold Veins"
+filename = "ngv-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3598/666/ngv-1.0.0.jar"
+hash-format = "sha1"
+hash = "652c608cc8929ecca865ad67292e48304fa0a2f4"
+
+[update]
+[update.curseforge]
+file-id = 3598666
+project-id = 565665

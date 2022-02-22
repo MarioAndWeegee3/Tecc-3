@@ -1,0 +1,13 @@
+name = "Durability Notifier"
+filename = "DurabilityNotifier-fabric-1.18.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3629/336/DurabilityNotifier-fabric-1.18.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "c3e37bea5838ddfeb2e103529f59a50eb61a47da"
+
+[update]
+[update.curseforge]
+file-id = 3629336
+project-id = 277095

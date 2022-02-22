@@ -1,0 +1,13 @@
+name = "Pretty Beaches (Fabric Edition)"
+filename = "prettybeaches-fabric-1.18-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/142/prettybeaches-fabric-1.18-7.0.0.jar"
+hash-format = "sha1"
+hash = "4f8a1d4bdb7c4ad97711eb1ead3681d0c4089434"
+
+[update]
+[update.curseforge]
+file-id = 3550142
+project-id = 547700

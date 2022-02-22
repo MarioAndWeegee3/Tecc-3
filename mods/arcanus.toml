@@ -1,0 +1,13 @@
+name = "Arcanus"
+filename = "arcanus-1.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3625/99/arcanus-1.27.jar"
+hash-format = "sha1"
+hash = "997eee32a8ce9aea8bbc5a872d385149aca34ab8"
+
+[update]
+[update.curseforge]
+file-id = 3625099
+project-id = 517833

@@ -1,0 +1,13 @@
+name = "Gilded Blackstone Recipe"
+filename = "GildedBlackstoneRecipe1.18 [FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/191/GildedBlackstoneRecipe1.18%20%5BFABRIC%5D.jar"
+hash-format = "sha1"
+hash = "30542d2086c73310cea6b518c252e5b60ea14b9b"
+
+[update]
+[update.curseforge]
+file-id = 3595191
+project-id = 557186

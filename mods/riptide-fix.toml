@@ -1,0 +1,13 @@
+name = "Riptide Fix"
+filename = "riptide_fix-1.18.1-2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/977/riptide_fix-1.18.1-2.0-fabric.jar"
+hash-format = "sha1"
+hash = "663199b30168ff9229316b7acbe414de1530d4df"
+
+[update]
+[update.curseforge]
+file-id = 3565977
+project-id = 338861

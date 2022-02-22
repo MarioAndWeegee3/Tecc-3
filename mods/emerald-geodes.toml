@@ -1,0 +1,13 @@
+name = "Emerald Geodes (+now with Quartz!)"
+filename = "more-geodes-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/375/more-geodes-1.2.0.jar"
+hash-format = "sha1"
+hash = "5e9caebc6b5a79774e2c603b8c868167bac920e7"
+
+[update]
+[update.curseforge]
+file-id = 3546375
+project-id = 437712

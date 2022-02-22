@@ -1,0 +1,13 @@
+name = "Trajectory preview [Fabric]"
+filename = "Trajectory Preview-1.0-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/156/Trajectory%20Preview-1.0-1.18.1.jar"
+hash-format = "sha1"
+hash = "b798032e25bfbdeaf79d622adf8fc803b962b1e2"
+
+[update]
+[update.curseforge]
+file-id = 3575156
+project-id = 545067

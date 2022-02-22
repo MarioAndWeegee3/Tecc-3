@@ -1,0 +1,13 @@
+name = "Right Click Clear"
+filename = "right-click-clear-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/823/right-click-clear-2.0.4.jar"
+hash-format = "sha1"
+hash = "54431cb173a0b68b4f8b0bcffbcbe35a691c2d77"
+
+[update]
+[update.curseforge]
+file-id = 3578823
+project-id = 332548

@@ -1,0 +1,13 @@
+name = "Roll (Fabric)"
+filename = "roll-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/524/roll-1.0.5.jar"
+hash-format = "sha1"
+hash = "d75c1e9a967ca38d44a40dac881b761512ae3405"
+
+[update]
+[update.curseforge]
+file-id = 3595524
+project-id = 452703

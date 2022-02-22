@@ -1,0 +1,13 @@
+name = "Mining Cooldown Fix"
+filename = "mining-cooldown-fix-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/582/mining-cooldown-fix-1.18.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "a4ef2cac3744f9ea6b742e14efe433b0ef16bbf7"
+
+[update]
+[update.curseforge]
+file-id = 3576582
+project-id = 559318

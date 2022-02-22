@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-fabric-1801.1.8-build.102.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3647/780/rhino-fabric-1801.1.8-build.102.jar"
+hash-format = "sha1"
+hash = "d1a4cba0b0a90474d96e350f73d2decf8615470c"
+
+[update]
+[update.curseforge]
+file-id = 3647780
+project-id = 416294

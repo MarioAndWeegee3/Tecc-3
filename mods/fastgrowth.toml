@@ -1,0 +1,13 @@
+name = "FastGrowth"
+filename = "fastgrowth-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3613/481/fastgrowth-1.5.jar"
+hash-format = "sha1"
+hash = "915fb7dd3c281a4cd6efb697427637899f4f6b01"
+
+[update]
+[update.curseforge]
+file-id = 3613481
+project-id = 403544

@@ -1,0 +1,13 @@
+name = "Hollow Woods"
+filename = "hollowwoods-fabric-1.1.0+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3594/774/hollowwoods-fabric-1.1.0+1.18.1.jar"
+hash-format = "sha1"
+hash = "29bb03e4dd6b0709f16aa03c3d080792ab16f1e3"
+
+[update]
+[update.curseforge]
+file-id = 3594774
+project-id = 557878

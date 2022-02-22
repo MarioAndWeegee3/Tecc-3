@@ -1,0 +1,13 @@
+name = "Notify"
+filename = "Notify+1.18-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3592/623/Notify+1.18-1.3.0.jar"
+hash-format = "sha1"
+hash = "2a05f8d5863ab9668031abb644cb6235a3377636"
+
+[update]
+[update.curseforge]
+file-id = 3592623
+project-id = 546817

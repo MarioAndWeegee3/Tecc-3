@@ -1,0 +1,13 @@
+name = "Simply Cotton"
+filename = "simplycotton-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3643/67/simplycotton-1.1.0.jar"
+hash-format = "sha1"
+hash = "c6246546eea3aad010a4fe5d1e34961454bd8fbc"
+
+[update]
+[update.curseforge]
+file-id = 3643067
+project-id = 574106

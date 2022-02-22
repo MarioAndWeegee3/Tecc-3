@@ -1,0 +1,13 @@
+name = "GravelMiner (Fabric Edition)"
+filename = "gravelminer-fabric-1.18-12.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/145/gravelminer-fabric-1.18-12.0.0.jar"
+hash-format = "sha1"
+hash = "5d1ef1d1134a1cc565abe00c3ef20f22f72102b0"
+
+[update]
+[update.curseforge]
+file-id = 3550145
+project-id = 506456

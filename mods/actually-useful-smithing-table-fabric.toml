@@ -1,0 +1,13 @@
+name = "Actually Useful Smithing Table [Fabric]"
+filename = "actuallyusefulsmithingtable-0.0.1-1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3608/758/actuallyusefulsmithingtable-0.0.1-1.18.x.jar"
+hash-format = "sha1"
+hash = "3051ee283c29bae8da3b912921435f20851dc94b"
+
+[update]
+[update.curseforge]
+file-id = 3608758
+project-id = 568328

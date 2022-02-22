@@ -1,0 +1,13 @@
+name = "Storage Cabinet"
+filename = "1.18-StorageCabinet-1.4.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/44/1.18-StorageCabinet-1.4.2-fabric.jar"
+hash-format = "sha1"
+hash = "9aec3d0d85a1dc285539af7b90132a30bce15a6a"
+
+[update]
+[update.curseforge]
+file-id = 3545044
+project-id = 304889

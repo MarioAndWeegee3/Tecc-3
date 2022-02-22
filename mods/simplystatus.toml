@@ -1,0 +1,13 @@
+name = "SimplyStatus"
+filename = "SimplyStatus-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/948/SimplyStatus-1.3.0.jar"
+hash-format = "sha1"
+hash = "d20a678421115fd291be1cd36d347d5fe0edd756"
+
+[update]
+[update.curseforge]
+file-id = 3642948
+project-id = 552755

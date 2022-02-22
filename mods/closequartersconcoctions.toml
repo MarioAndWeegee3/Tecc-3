@@ -1,0 +1,13 @@
+name = "CloseQuartersConcoctions"
+filename = "cqc-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3582/386/cqc-1.0.0.jar"
+hash-format = "sha1"
+hash = "908ba81d5d07f661c90ea6f702172b85865d6222"
+
+[update]
+[update.curseforge]
+file-id = 3582386
+project-id = 560914

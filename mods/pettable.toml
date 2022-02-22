@@ -1,0 +1,13 @@
+name = "Pettable"
+filename = "pettable-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/291/pettable-1.2.1.jar"
+hash-format = "sha1"
+hash = "fbb7f652a07dd39c48a74e20bde467dbe27c019f"
+
+[update]
+[update.curseforge]
+file-id = 3562291
+project-id = 468991

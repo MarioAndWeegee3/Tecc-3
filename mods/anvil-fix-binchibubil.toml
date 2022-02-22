@@ -1,0 +1,13 @@
+name = "Anvil Fix Binchibubil"
+filename = "AnvilFix-development+custom-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/718/AnvilFix-development+custom-1.18.jar"
+hash-format = "sha1"
+hash = "44152b904738acc05c9eaf808436dc86be0ccfaa"
+
+[update]
+[update.curseforge]
+file-id = 3586718
+project-id = 561965

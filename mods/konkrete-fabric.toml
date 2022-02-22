@@ -1,0 +1,13 @@
+name = "Konkrete [Fabric]"
+filename = "konkrete_fabric_1.3.3_MC_1.18-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3593/183/konkrete_fabric_1.3.3_MC_1.18-1.18.1.jar"
+hash-format = "sha1"
+hash = "7aed53dd54f808978df8430d810a11bb889f11af"
+
+[update]
+[update.curseforge]
+file-id = 3593183
+project-id = 416797

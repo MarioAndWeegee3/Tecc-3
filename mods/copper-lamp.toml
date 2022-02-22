@@ -1,0 +1,13 @@
+name = "Copper Lamp"
+filename = "copperlamp-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3656/145/copperlamp-2.1.0.jar"
+hash-format = "sha1"
+hash = "f106d5f20e5e5a3f7d883999c681cc640ce887f1"
+
+[update]
+[update.curseforge]
+file-id = 3656145
+project-id = 568342

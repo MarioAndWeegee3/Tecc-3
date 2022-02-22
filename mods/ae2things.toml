@@ -1,0 +1,13 @@
+name = "AE2 Things"
+filename = "AE2Things-1.0.2-beta.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3645/884/AE2Things-1.0.2-beta.2.jar"
+hash-format = "sha1"
+hash = "5c429b8e394a896fa0907ed3bad2f7de98d76809"
+
+[update]
+[update.curseforge]
+file-id = 3645884
+project-id = 563800

@@ -1,0 +1,13 @@
+name = "Grindstone Is Made Of Stone"
+filename = "grindstone-is-made-of-stone-mc1.18-2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/809/grindstone-is-made-of-stone-mc1.18-2.0.jar"
+hash-format = "sha1"
+hash = "5248b3d55c28a54743c31e6cea7ea314de502cb4"
+
+[update]
+[update.curseforge]
+file-id = 3570809
+project-id = 494179

@@ -1,0 +1,13 @@
+name = "Puzzles Lib [Fabric]"
+filename = "PuzzlesLib-v3.1.5-1.18.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3644/425/PuzzlesLib-v3.1.5-1.18.1-Fabric.jar"
+hash-format = "sha1"
+hash = "c3582496c3761be29b8403c6fc9e9442d85c0a6f"
+
+[update]
+[update.curseforge]
+file-id = 3644425
+project-id = 547429

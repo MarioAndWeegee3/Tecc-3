@@ -1,0 +1,41 @@
+{
+  "modules": {
+    "megane-team-reborn-energy": {
+      "badasintended.megane.impl.TeamRebornEnergy": true
+    },
+    "megane-reborn-core": {
+      "badasintended.megane.impl.RebornCore": true
+    },
+    "megane-industrial-revolution": {
+      "badasintended.megane.impl.IndustrialRevolution": true
+    },
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true,
+      "badasintended.megane.impl.FabricTransfer": true
+    },
+    "megane-tech-reborn": {
+      "badasintended.megane.impl.TechReborn": true
+    },
+    "megane-modern-industrialization": {
+      "badasintended.megane.impl.ModernIndustrialization": true
+    },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
+    },
+    "megane-applied-energistics-2": {
+      "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true,
+      "badasintended.megane.impl.AppliedEnergistics2": true
+    },
+    "megane-reborn-energy": {
+      "lol.bai.megane.module.rebornenergy.MeganeRebornEnergy": true
+    },
+    "megane-wireless-networks": {
+      "badasintended.megane.impl.WirelessNetworks": true,
+      "lol.bai.megane.module.wirelessnetworks.MeganeWirelessNetworks": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true,
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

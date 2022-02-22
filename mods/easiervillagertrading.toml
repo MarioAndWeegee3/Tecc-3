@@ -1,0 +1,13 @@
+name = "EasierVillagerTrading"
+filename = "easiervillagertrading-1.18-fabric0.43.1-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/431/easiervillagertrading-1.18-fabric0.43.1-1.5.4.jar"
+hash-format = "sha1"
+hash = "d3e8dddfa088179199d1b349243cb4308735d40e"
+
+[update]
+[update.curseforge]
+file-id = 3543431
+project-id = 261605

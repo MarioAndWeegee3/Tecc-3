@@ -1,0 +1,13 @@
+name = "Krypton"
+filename = "krypton-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/150/krypton-0.1.6.jar"
+hash-format = "sha1"
+hash = "f0f3961ed0a22a8b3d5b20af4dde7ac6fbc06a46"
+
+[update]
+[update.curseforge]
+file-id = 3559150
+project-id = 428912

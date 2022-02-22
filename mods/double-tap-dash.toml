@@ -1,0 +1,13 @@
+name = "Double-Tap Dash"
+filename = "dash-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3627/448/dash-1.0.0.jar"
+hash-format = "sha1"
+hash = "0ce2d79cc8f83383a137af5f0ced730f68d1790f"
+
+[update]
+[update.curseforge]
+file-id = 3627448
+project-id = 574205

@@ -1,0 +1,13 @@
+name = "Numeral Ping"
+filename = "numeralping-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3585/730/numeralping-1.0.2.jar"
+hash-format = "sha1"
+hash = "76d9fe38498464527d6874d4a4a66eee0890d459"
+
+[update]
+[update.curseforge]
+file-id = 3585730
+project-id = 559653

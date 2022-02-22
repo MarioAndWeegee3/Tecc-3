@@ -1,0 +1,13 @@
+name = "Illegal Stack Fixer"
+filename = "IllegalStackFixer-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/959/IllegalStackFixer-3.0.0.jar"
+hash-format = "sha1"
+hash = "2c1881224e04b4e79fc4c86204ddf3bcefdfbe58"
+
+[update]
+[update.curseforge]
+file-id = 3558959
+project-id = 482910

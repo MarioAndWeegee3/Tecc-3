@@ -1,0 +1,13 @@
+name = "KubeJS (Fabric)"
+filename = "kubejs-fabric-1801.4.2-build.300.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3647/100/kubejs-fabric-1801.4.2-build.300.jar"
+hash-format = "sha1"
+hash = "7ab3285189451e76215aa91b822407d9c62979dd"
+
+[update]
+[update.curseforge]
+file-id = 3647100
+project-id = 395864

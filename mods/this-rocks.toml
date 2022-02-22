@@ -1,0 +1,13 @@
+name = "This Rocks!"
+filename = "rocks-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3547/921/rocks-1.5.2.jar"
+hash-format = "sha1"
+hash = "628229907005d2c64b99e57982943a35f0c9f8b5"
+
+[update]
+[update.curseforge]
+file-id = 3547921
+project-id = 416283

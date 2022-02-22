@@ -1,0 +1,13 @@
+name = "NBT Viewer (Fabric)"
+filename = "nbt-viewer-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3632/31/nbt-viewer-2.0.0.jar"
+hash-format = "sha1"
+hash = "004dae872d2c75b8063e7a20897bd1c327a0e570"
+
+[update]
+[update.curseforge]
+file-id = 3632031
+project-id = 362728

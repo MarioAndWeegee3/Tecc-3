@@ -1,0 +1,13 @@
+name = "Luminous Wool"
+filename = "luminous-wool-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/944/luminous-wool-1.2.2.jar"
+hash-format = "sha1"
+hash = "9d3b2780db190b8d2fbbf3775dfc58f259b57103"
+
+[update]
+[update.curseforge]
+file-id = 3542944
+project-id = 494014
