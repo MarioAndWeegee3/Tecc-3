@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+
+[[files]]
+file = "README.md"
+hash = "24d83b708ea44265f84a0355fca878a8092c71f235520d080247d7ca40250065"
+
+[[files]]
 file = "config/ElytraAeronautics.ser"
 hash = "8c6b3e8740bee74738824a9594ab5fe55c3b6caee0f82c066a2bc7cd2f9bc4cd"
 
