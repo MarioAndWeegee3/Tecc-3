@@ -6,7 +6,7 @@ hash = "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
 
 [[files]]
 file = "README.md"
-hash = "24d83b708ea44265f84a0355fca878a8092c71f235520d080247d7ca40250065"
+hash = "ebb789109b1619806686a1ec060a39e648050f46ba7788171072617e4f3e113c"
 
 [[files]]
 file = "config/ElytraAeronautics.ser"
@@ -1551,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "mods/gilded-blackstone-recipe.toml"
-hash = "c169da99d60b84f0f599d6cbe821c693556ab2d94b50efd06b801c12285d0f1c"
+hash = "c550756956caa477453bb24291293d048af9af272a682c09fea24cd079f9279f"
 metafile = true
 
 [[files]]
@@ -1656,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "1db02540aab84103dd7618d8ed6ee3b4f3f70862c1a32e6729e01145021c5a13"
+hash = "3d57472c7275fed75611c023c2db9c80dcd2de5de7b0a5bb941b459dba564718"
 metafile = true
 
 [[files]]
