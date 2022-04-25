@@ -1,13 +1,13 @@
 name = "Nether Wart Block to Nether Warts"
-filename = "netherwardblock-1.18.1.jar"
+filename = "netherwardblock-1.18.2-2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3574/386/netherwardblock-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3735/233/netherwardblock-1.18.2-2.jar"
 hash-format = "sha1"
-hash = "17e94e242964dfc6ce6081a476eb807a37556c17"
+hash = "f3d8cf97bced42a42012e0928e61b17ea7e404a3"
 
 [update]
 [update.curseforge]
-file-id = 3574386
+file-id = 3735233
 project-id = 517690

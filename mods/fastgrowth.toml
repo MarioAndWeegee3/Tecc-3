@@ -1,13 +1,13 @@
 name = "FastGrowth"
-filename = "fastgrowth-1.5.jar"
+filename = "fastgrowth-1.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3613/481/fastgrowth-1.5.jar"
+url = "https://edge.forgecdn.net/files/3734/174/fastgrowth-1.6.jar"
 hash-format = "sha1"
-hash = "915fb7dd3c281a4cd6efb697427637899f4f6b01"
+hash = "b7281eb8d35e37d761be359040813758b24d3e28"
 
 [update]
 [update.curseforge]
-file-id = 3613481
+file-id = 3734174
 project-id = 403544

@@ -3,11 +3,11 @@ filename = "zihlaunchpads-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3581/664/zihlaunchpads-1.2.0.jar"
+url = "https://edge.forgecdn.net/files/3673/151/zihlaunchpads-1.2.0.jar"
 hash-format = "sha1"
-hash = "cd2b8f54eb71510656efeee892ee1c2c61680546"
+hash = "c4e26527e4926d8eaedc16aef30f37e19dc30709"
 
 [update]
 [update.curseforge]
-file-id = 3581664
+file-id = 3673151
 project-id = 521065

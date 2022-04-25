@@ -1,13 +1,13 @@
 name = "Campfire Torches Plus"
-filename = "CampfireTorchesPlus-1.0.0.jar"
+filename = "CampfireTorchesPlus-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3627/531/CampfireTorchesPlus-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3760/749/CampfireTorchesPlus-1.1.0.jar"
 hash-format = "sha1"
-hash = "f522b01f0a2f4bcdc509c6a211b2077a377117f2"
+hash = "25b18da8205633ae7b34c54fd99f5b0be929e623"
 
 [update]
 [update.curseforge]
-file-id = 3627531
+file-id = 3760749
 project-id = 574141

@@ -1,13 +1,13 @@
 name = "Server Hats"
-filename = "server-hats-0.8.jar"
+filename = "server-hats-0.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3558/586/server-hats-0.8.jar"
+url = "https://edge.forgecdn.net/files/3667/535/server-hats-0.9.jar"
 hash-format = "sha1"
-hash = "e211a16305172acd9e7d62f9ad7b35050badb55c"
+hash = "95b04eede99b76a2975f1fa2aefe61327ca78940"
 
 [update]
 [update.curseforge]
-file-id = 3558586
+file-id = 3667535
 project-id = 549653

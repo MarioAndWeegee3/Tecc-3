@@ -1,13 +1,13 @@
 name = "Red Bits"
-filename = "red-bits-1.12.0.jar"
+filename = "red-bits-1.13.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3612/273/red-bits-1.12.0.jar"
+url = "https://edge.forgecdn.net/files/3692/322/red-bits-1.13.2.jar"
 hash-format = "sha1"
-hash = "333ad60b689423a0adf52def254aa25accd5d1f8"
+hash = "44de56ba294e9ff737575316d5d965eccd5a14e3"
 
 [update]
 [update.curseforge]
-file-id = 3612273
+file-id = 3692322
 project-id = 403914

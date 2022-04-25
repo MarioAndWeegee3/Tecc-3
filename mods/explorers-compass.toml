@@ -1,13 +1,13 @@
 name = "Explorer's Compass"
-filename = "ExplorersCompass-1.18.1-2.0.2-fabric.jar"
+filename = "ExplorersCompass-1.18.2-2.1.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/302/ExplorersCompass-1.18.1-2.0.2-fabric.jar"
+url = "https://edge.forgecdn.net/files/3765/362/ExplorersCompass-1.18.2-2.1.0-fabric.jar"
 hash-format = "sha1"
-hash = "871d10de8c49a2b65320d889709060eade39f448"
+hash = "e12e8e268385a259ea039f20dd38320853513d1a"
 
 [update]
 [update.curseforge]
-file-id = 3577302
+file-id = 3765362
 project-id = 491794

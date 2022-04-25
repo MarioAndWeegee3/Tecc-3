@@ -1,13 +1,13 @@
 name = "Redstone Bits"
-filename = "redstone-bits-1.6.2+fabric-mc1.18.jar"
+filename = "redstone-bits-1.7.1+fabric-mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3582/861/redstone-bits-1.6.2+fabric-mc1.18.jar"
+url = "https://edge.forgecdn.net/files/3672/807/redstone-bits-1.7.1+fabric-mc1.18.2.jar"
 hash-format = "sha1"
-hash = "a6da3b8a26bcb77de336260b69abca2fce8fca4b"
+hash = "bf571e615b2d0301f5b64ef6f8043df860d24494"
 
 [update]
 [update.curseforge]
-file-id = 3582861
+file-id = 3672807
 project-id = 321014

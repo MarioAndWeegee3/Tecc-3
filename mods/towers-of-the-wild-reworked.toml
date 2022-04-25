@@ -1,13 +1,13 @@
 name = "Towers of the Wild: Reworked (Fabric)"
-filename = "towers_of_the_wild_reworked-2.1.1.jar"
+filename = "towers_of_the_wild_reworked-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3633/73/towers_of_the_wild_reworked-2.1.1.jar"
+url = "https://edge.forgecdn.net/files/3663/23/towers_of_the_wild_reworked-2.2.0.jar"
 hash-format = "sha1"
-hash = "21fdf7b5d805f5c9db0f2ed7a7d3e0739c3e097f"
+hash = "13c8a061168fa759b84c8c2ecac0c7d1325350b8"
 
 [update]
 [update.curseforge]
-file-id = 3633073
+file-id = 3663023
 project-id = 552655

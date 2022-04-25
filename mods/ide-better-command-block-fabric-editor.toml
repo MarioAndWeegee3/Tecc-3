@@ -1,13 +1,13 @@
 name = "Better Command Block Editor - Fabric"
-filename = "BetterCmdBlockFabric-1.18.1-2.5.10.jar"
+filename = "BetterCmdBlockFabric-1.18.2-2.5.10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3631/139/BetterCmdBlockFabric-1.18.1-2.5.10.jar"
+url = "https://edge.forgecdn.net/files/3684/947/BetterCmdBlockFabric-1.18.2-2.5.10.jar"
 hash-format = "sha1"
-hash = "af88c7a3981b8a3f2dbd98830abed6ab67a96752"
+hash = "00c97b6b282e64cce52c648527e706a438568340"
 
 [update]
 [update.curseforge]
-file-id = 3631139
+file-id = 3684947
 project-id = 500959

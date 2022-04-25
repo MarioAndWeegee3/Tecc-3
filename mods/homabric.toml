@@ -1,13 +1,13 @@
 name = "Homabric"
-filename = "homabric-1.1.1.jar"
+filename = "homabric-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3579/400/homabric-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3759/309/homabric-2.0.0.jar"
 hash-format = "sha1"
-hash = "1ed31b1aafe40c86a8b5b20427a29158183b865e"
+hash = "4f0a3904763cae38c56b7fd85cd02c201e12f463"
 
 [update]
 [update.curseforge]
-file-id = 3579400
+file-id = 3759309
 project-id = 558888

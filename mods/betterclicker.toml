@@ -1,13 +1,13 @@
 name = "BetterClicker"
-filename = "better-clicker-1.3.0.jar"
+filename = "better_clicker-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3609/660/better-clicker-1.3.0.jar"
+url = "https://edge.forgecdn.net/files/3712/702/better_clicker-2.0.0.jar"
 hash-format = "sha1"
-hash = "0915a7ef11d23475a222295b1d3636f508181934"
+hash = "779d185d087bbe2697bb82f5a6eede31c7e62965"
 
 [update]
 [update.curseforge]
-file-id = 3609660
+file-id = 3712702
 project-id = 565903

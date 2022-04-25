@@ -1,13 +1,13 @@
 name = "InfiniteVillagerTrading"
-filename = "infinitevillagertrading-1.18-fabric0.43.1-1.1.jar"
+filename = "infinitevillagertrading-1.18.2-fabric0.47.10-1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/438/infinitevillagertrading-1.18-fabric0.43.1-1.1.jar"
+url = "https://edge.forgecdn.net/files/3687/757/infinitevillagertrading-1.18.2-fabric0.47.10-1.1.jar"
 hash-format = "sha1"
-hash = "def71169f5824f214dfd928133dea0986b7639ad"
+hash = "f5788e81360b5fbd38f19a062ebbf81a4a1d55cf"
 
 [update]
 [update.curseforge]
-file-id = 3543438
+file-id = 3687757
 project-id = 392254

@@ -1,13 +1,13 @@
 name = "Open Loader"
-filename = "OpenLoader-Fabric-1.18.1-11.0.4.jar"
+filename = "OpenLoader-Fabric-1.18.2-12.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3618/464/OpenLoader-Fabric-1.18.1-11.0.4.jar"
+url = "https://edge.forgecdn.net/files/3697/233/OpenLoader-Fabric-1.18.2-12.0.1.jar"
 hash-format = "sha1"
-hash = "d7ca3d17dba762c255e3f2d4920d9dd9b2799801"
+hash = "42cbf1d2020798de5215329a306be48f5bbcc811"
 
 [update]
 [update.curseforge]
-file-id = 3618464
+file-id = 3697233
 project-id = 354339

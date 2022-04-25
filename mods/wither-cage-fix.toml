@@ -1,13 +1,13 @@
 name = "Wither Cage Fix"
-filename = "wither-cage-fix-1.0.11+MC1.18-1.18.1.jar"
+filename = "wither-cage-fix-1.0.12+MC1.18-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3564/690/wither-cage-fix-1.0.11+MC1.18-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3694/644/wither-cage-fix-1.0.12+MC1.18-1.18.2.jar"
 hash-format = "sha1"
-hash = "ab7740747be82358e98e0daa43a358ebb3c0146a"
+hash = "def1ab5e50a904bf96ee08664bdeaeac1c9a7084"
 
 [update]
 [update.curseforge]
-file-id = 3564690
+file-id = 3694644
 project-id = 406807

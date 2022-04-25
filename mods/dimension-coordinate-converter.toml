@@ -3,11 +3,11 @@ filename = "dimension-coord-converter-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3565/569/dimension-coord-converter-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3722/287/dimension-coord-converter-1.1.1.jar"
 hash-format = "sha1"
-hash = "2371a33b76113fb2a8361572f57aef9028e4cdca"
+hash = "d9e9800325880f6c7337afcb20323de641c0c30d"
 
 [update]
 [update.curseforge]
-file-id = 3565569
+file-id = 3722287
 project-id = 555045

@@ -1,13 +1,13 @@
 name = "Plushie Mod"
-filename = "plushie-mod-1.1-1.18.1.jar"
+filename = "plushie-mod-1.2-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3559/945/plushie-mod-1.1-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3699/524/plushie-mod-1.2-1.18.1.jar"
 hash-format = "sha1"
-hash = "31e9db21a4772b86f1f02877dc1186013d183742"
+hash = "8cb1420651dbc2f4b81015c9945bfdc99624957c"
 
 [update]
 [update.curseforge]
-file-id = 3559945
+file-id = 3699524
 project-id = 544197

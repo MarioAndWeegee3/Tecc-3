@@ -1,13 +1,13 @@
 name = "Culinaire"
-filename = "culinaire-2.3.3.jar"
+filename = "culinaire-2.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3575/39/culinaire-2.3.3.jar"
+url = "https://edge.forgecdn.net/files/3723/221/culinaire-2.4.0.jar"
 hash-format = "sha1"
-hash = "d0537d61a3c458f707a10538ddd2d8ef189bc1ef"
+hash = "02e79b2f3e66bdf6031b88fd60758c66fcdcaf6b"
 
 [update]
 [update.curseforge]
-file-id = 3575039
+file-id = 3723221
 project-id = 390675
